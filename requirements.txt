@@ -1,0 +1,2 @@
+charset-normalizer==3.3.2
+psutil==6.0.0
